@@ -1,1 +1,7 @@
-<?php echo "holaaaa";?>
+<?php 
+
+echo "holaaaa";
+
+
+print_r("world!");
+?>
